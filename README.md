@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/swalih07/leetcode/tree/master/0001-two-sum) |
+| [0035-search-insert-position](https://github.com/swalih07/leetcode/tree/master/0035-search-insert-position) |
 ## Hash Table
 |  |
 | ------- |
@@ -19,4 +20,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/swalih07/leetcode/tree/master/0013-roman-to-integer) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/swalih07/leetcode/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
