@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/swalih07/leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/swalih07/leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/swalih07/leetcode/tree/master/0070-climbing-stairs) |
+| [1927-sum-game](https://github.com/swalih07/leetcode/tree/master/1927-sum-game) |
 | [2235-add-two-integers](https://github.com/swalih07/leetcode/tree/master/2235-add-two-integers) |
 ## String
 |  |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/swalih07/leetcode/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/swalih07/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/swalih07/leetcode/tree/master/0058-length-of-last-word) |
+| [1927-sum-game](https://github.com/swalih07/leetcode/tree/master/1927-sum-game) |
 ## Binary Search
 |  |
 | ------- |
@@ -62,4 +64,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/swalih07/leetcode/tree/master/0175-combine-two-tables) |
+## Greedy
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/swalih07/leetcode/tree/master/1927-sum-game) |
+## Game Theory
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/swalih07/leetcode/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
